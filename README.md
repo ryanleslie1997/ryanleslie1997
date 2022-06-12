@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanleslie1997
-- 👀 I’m interested in music and technology.
-- 🌱 I’m currently learning web design and development.
+- 👀 I’m interested in technology, web development, gaming, movies and music.
+- 🌱 I’m currently teaching myself on Codecademy to become a full stack engineer
 - 📫 How to reach me: Twitter @InTheLittleSap
 
 <!---
