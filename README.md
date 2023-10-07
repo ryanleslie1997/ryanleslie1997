@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanleslie1997
 - 👀 I’m interested in technology, web development, gaming, movies and music.
-- 🌱 I’m currently teaching myself on Codecademy to become a full stack engineer
+- 🌱 I’m currently teaching myself on the odin project to become a full stack web developer
 - 📫 How to reach me: Twitter @InTheLittleSap
 
 <!---
